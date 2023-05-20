@@ -1,7 +1,6 @@
 # Trolley-EcommerceApp
 
-Trolley Shopping App
-Description
+
 Welcome to my project! This is a shopping App made in Android studio using kotlin programming language . This app allows retail business owners to sell their product to their surrounding customers. With this App, users can effortlessly buy products as this app is integrated with Razorpay which is the only payments solution in India that allows businesses to accept, process and disburse payments with its product suite. 
 
 Ecommerce-Firebase-app
